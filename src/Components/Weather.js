@@ -6,7 +6,6 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 import ThermostatIcon from '@mui/icons-material/Thermostat';
 import ThunderstormIcon from '@mui/icons-material/Thunderstorm';
 import AirIcon from '@mui/icons-material/Air';
-import Spinner from 'reac;t-bootstrap/Spinner'
 
 // import { ScreenSearchDesktop } from '@mui/icons-material';
 // import { Air } from '@mui/icons-material';
